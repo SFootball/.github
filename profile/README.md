@@ -1,10 +1,17 @@
 ### WELCOM TO SFOOTBALL
 
-![sfootball_logo](https://github.com/SFootball/.github/assets/36443810/c2b36957-686f-4369-b3b0-780328ca93fc)
+![sfootball logo](https://github.com/user-attachments/assets/3dd3bc14-6413-46dc-9593-67fd6f161b79)
 
 join to us
-[site](https://sfootball.space)
+- [site](https://sfootball.space)
+- [web app](https://app.sfootball.space)
+- [telegram application](https://t.me/space_football_bot)
+- [telegram channel](https://t.me/SFootballEN)
+- [ru channel](https://t.me/SFootballSpace)
+- [X] (https://twitter.com/sfootball_space)
 
-[telegram application](https://t.me/space_football_bot)
-[telegram channel](https://t.me/SFootballEN)
-[ru channel](https://t.me/SFootballSpace)
+### Everyone has an opportunity
+
+#### All in one statistical solution
+
+#### OUR MISSION Development of world football through digital technologies.
